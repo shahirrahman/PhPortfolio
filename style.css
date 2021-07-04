@@ -95,3 +95,6 @@ h1{
     border-image: linear-gradient(rgb(156, 53, 35),rgba(0, 0, 0, 0));
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+}
