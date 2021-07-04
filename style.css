@@ -15,19 +15,20 @@ h1{
 }
 .container{
     display: flex;
-    padding: 40px;
+    padding: 20px 55px;
+    margin: 0;
 }
 .width-half{
     width: 50%;
 }
 .width-half img{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .header-img{
     display: flex;
 }
-.img-for-head{
+.img-header1{
     margin:0px 0px 0px auto;
 }
 .buttons{
@@ -40,8 +41,14 @@ h1{
     color:white;
     font-size: 15px;
 }
-.container{
+.header1{
     background-image: url(imgs/top-banner.png);
     background-repeat: no-repeat;
-    margin: 0;
+    margin-bottom: 120px;
+}
+/* Header 2 starts here */
+.header2{
+    background-image: url(imgs/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
 }
